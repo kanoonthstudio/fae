@@ -112,7 +112,7 @@ Fae.form.text = {
           fileFieldName: 'image'
         }
       },
-      resetCss: true
+      resetCss: false
     });
   }
 };
